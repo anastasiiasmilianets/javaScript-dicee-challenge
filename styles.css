@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #BBD5DA;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow:4px 0 #5a697d;
+  font-size: 5rem;
+  color: #76ABAE;
+}
+
+p {
+  font-size: 2rem;
+  color: #2c626e;
+  font-family: "Unna", serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #1311117c;
+  text-align: center;
+  font-family: "Unna", serif;
+  letter-spacing: 1.5px;
+}
