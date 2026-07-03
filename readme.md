@@ -6,7 +6,7 @@ A simple interactive dice game web application built to practice DOM manipulatio
 
 ## 🚀 Features
 * Interactive Rolling: Click the "Roll the dice" button to generate a random number (1–6) for each player — no page refresh needed.
-* Dynamic DOM Updating: The dice images and the main heading (<h1>) update automatically based on the outcome.
+* Dynamic DOM Updating: The dice images and the main heading update automatically based on the outcome.
 * Score Tracking: Wins for each player are counted and displayed live, persisting across rolls until the page is reloaded.
 * Three End-Game States: Displays a win for Player 1, a win for Player 2, or a Draw.
 
