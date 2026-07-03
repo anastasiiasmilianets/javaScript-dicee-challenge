@@ -1,0 +1,76 @@
+.container {
+  width: 85%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #BBD5DA;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow:4px 0 #5a697d;
+  font-size: 4rem;
+  color: #76ABAE;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-size: 2rem;
+  color: #2c626e;
+  font-family: "Unna", serif;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  display: block;
+  margin: auto;
+  padding: 20px 20px;
+  font-size: 1.3rem;
+  font-family: "Unna", serif;
+  color: #e7ded0;
+  background-color: #76ABAE;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:hover {
+  background-color: #5a898c;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+.score h2 {
+  font-family: "Unna", serif;
+  color: #1f5a68;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.score p {
+  display: inline-block;
+  margin: 0px 120px;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 25px;
+  color: #1311117c;
+  text-align: center;
+  font-family: "Unna", serif;
+  letter-spacing: 1.5px;
+}
