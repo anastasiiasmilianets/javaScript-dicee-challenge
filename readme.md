@@ -20,7 +20,7 @@ A simple interactive dice game web application built to practice DOM manipulatio
 ---
 
 ## 📂 Project Structure
-* `dicee.html` — the main game page.
+* `index.html` — the main game page.
 * `styles.css` — styling and layout definitions.
 * `index.js` — JavaScript file containing the game logic (roll handler and score tracking).
 * `images/` — folder containing the dice images (from `dice1.png` to `dice6.png`).
